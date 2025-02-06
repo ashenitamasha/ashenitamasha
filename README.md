@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h1 align="center">
-Hi, I'm Thepuli Kavindhya 
+Hi, I'm Asheni Tamasha
 	<a href="https://github.com/Bouaskaoun" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -11,14 +11,14 @@ Hi, I'm Thepuli Kavindhya
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://komarev.com/ghpvc/?username=thepulikavindhya&label=Profile%20views&color=0e75b6&style=flat" alt="avishkaranaveera" />
 	</a>
-	<a href="https://github.com/avishkaranaveera">
-		<img src="https://img.shields.io/github/followers/thepulikavindhya?label=Followers" alt="avishkaranaveera" />
+	<a href="https://github.com/ashenitamasha">
+		<img src="https://img.shields.io/github/followers/ashenitamasha?label=Followers" alt="avishkaranaveera" />
 	</a>
 </p>
 <br/>
 <p align="center">
 	<a href="https://github.com/thepulikavindhya">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Enginnering+Student;Front+End+Developer;UI+UX+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Enginnering+Student;Front+End+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -46,13 +46,13 @@ I’m a Software Engineering undergraduate , passionate about Frontend developme
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thepulikavindhya&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ashenitamasha&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thepulikavindhya&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashenitamasha&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thepulikavindhya&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashenitamasha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -62,22 +62,10 @@ I’m a Software Engineering undergraduate , passionate about Frontend developme
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://ashu-guo.github.io/blogs/" target="_blank">
-    <img align="center" alt="ashu-guo | blogs" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/vitepress.svg" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://profile-summary-for-github.herokuapp.com/user/ashu-guo" target="_blank">
-    <img align="center" alt="ashu-guo | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://juejin.cn/user/3280598430653374" target="_blank">
-    <img align="center" alt="ashu-guo | juejin" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/juejin.svg" />
-  </a> &nbsp;&nbsp;
-
-  <a href="mailto:guochengli1997@gmail.com" >
-    <img align="center" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
-  </a> &nbsp;&nbsp;
-<p>
+<a href="https://www.linkedin.com/in/asheni-tamasha-40a6a6299" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
+<a href="https://www.instagram.com/asheni_tamasha_?igsh=cW9sa2diMWN5ZXBs" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="https://www.facebook.com/share/18m7trGb5U/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+</p>
 
 ---
 
