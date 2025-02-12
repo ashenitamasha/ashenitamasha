@@ -27,7 +27,7 @@ I’m a Software Engineering undergraduate , passionate about Frontend developme
 
 
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+
 
 - 🔭 ’m currently working on  Frontend Web Development.
 - 🌱 ’m currently learning Frontend languages like React-JS .
